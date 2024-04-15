@@ -1,10 +1,16 @@
+# Manual GIT
+
 Hello world!
 
 Goodbye world!
 
+## TXT
+
 *Hi again* 
 
 **Half FAT**
+
+## LISTS
 
 * element 1
 * element 2
